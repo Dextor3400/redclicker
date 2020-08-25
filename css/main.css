@@ -1,0 +1,27 @@
+.soviet_main{
+    position: relative;
+}
+
+.soviet_main_builds {
+    top: 230px;
+    left: 23px;
+}
+
+.mb-small{
+    margin-bottom: 2px;
+}
+
+.constructing_going {
+    filter: grayscale(100%);
+}
+
+span {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 57px;
+    height: 49px;
+}
+
+
+
